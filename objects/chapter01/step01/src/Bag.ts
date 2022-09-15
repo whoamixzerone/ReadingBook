@@ -2,7 +2,7 @@ import Invitation from './Invitation';
 import Ticket from './Ticket';
 
 class Bag {
-  private amount: number;
+  private amount!: number;
 
   private invitation?: Invitation;
 

@@ -1,5 +1,5 @@
 class Invitation {
-    private when!: Date;
+  private when!: Date;
 }
 
 export default Invitation;
