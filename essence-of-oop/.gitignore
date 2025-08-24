@@ -1,13 +1,5 @@
-.idea
-
-node_modules
-
 # Ignore Gradle project-specific cache directory
 .gradle
 
 # Ignore Gradle build output directory
 build
-
-# VS Code settings folder
-.vscode
-.qodo
